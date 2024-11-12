@@ -33,7 +33,7 @@ public class battyscript : MonoBehaviour
         {
             choicePanel.SetActive(false);
             Time.timeScale = 1;
-            // UnityEngine.SceneManagement.SceneManager.LoadScene("main menu");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenuScene");
         });
     }
 
