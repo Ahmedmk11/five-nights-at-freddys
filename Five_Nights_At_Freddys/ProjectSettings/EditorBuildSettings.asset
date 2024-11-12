@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start/StartScene.unity
+    guid: 2438a2c93ccae4aab86555c1d235338f
+  - enabled: 1
+    path: Assets/Scenes/Meet Batty/MeetBattyScene.unity
+    guid: 11c5066e607154d26b8c3b0b5b3c43b9
+  - enabled: 1
+    path: Assets/Scenes/Meet Foxy/MeetFoxyScene.unity
+    guid: f97bb146fa24344af80858f051080448
+  - enabled: 1
+    path: Assets/Scenes/Meet Freddy/MeetFreddyScene.unity
+    guid: c8b731bda652e436eb77678c2589b359
+  - enabled: 1
+    path: Assets/Scenes/Escape 2/EscapeFreddyScene.unity
+    guid: 7a39ee4a5115749a49f372e7485cc83b
   m_configObjects: {}
