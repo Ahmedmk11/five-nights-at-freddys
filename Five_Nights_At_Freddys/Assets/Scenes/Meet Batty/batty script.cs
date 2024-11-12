@@ -21,13 +21,13 @@ public class battyscript : MonoBehaviour
         {
             choicePanel.SetActive(false);
             Time.timeScale = 1;
-            // UnityEngine.SceneManagement.SceneManager.LoadScene("MeetConsortFreddyScene");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("MeetConsortScene");
         });
         escapeConsortButton.onClick.AddListener(() =>
         {
             choicePanel.SetActive(false);
             Time.timeScale = 1;
-            // UnityEngine.SceneManagement.SceneManager.LoadScene("EscapeConsortScene");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("EscapeConsortScene");
         });
         mainMenuButton.onClick.AddListener(() =>
         {

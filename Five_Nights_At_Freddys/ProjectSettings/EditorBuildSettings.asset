@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Meet Batty/MeetBattyScene.unity
     guid: 11c5066e607154d26b8c3b0b5b3c43b9
   - enabled: 1
+    path: Assets/Scenes/Escape 1/EscapeConsortScene.unity
+    guid: 420bbc44409bb46fc83fe1d544af0ba0
+  - enabled: 1
+    path: Assets/Scenes/Meet Consort/MeetConsortScene.unity
+    guid: ca3072d1dd5c94fab8f7dd471c629a3b
+  - enabled: 1
     path: Assets/Scenes/Meet Foxy/MeetFoxyScene.unity
     guid: f97bb146fa24344af80858f051080448
   - enabled: 1
