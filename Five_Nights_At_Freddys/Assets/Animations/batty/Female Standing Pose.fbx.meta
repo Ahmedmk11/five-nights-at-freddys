@@ -82,7 +82,7 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human:
-    - boneName: bip_pelvis
+    - boneName: mixamorig:Hips
       humanName: Hips
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -90,7 +90,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_hip_L
+    - boneName: mixamorig:LeftUpLeg
       humanName: LeftUpperLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -98,7 +98,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_hip_R
+    - boneName: mixamorig:RightUpLeg
       humanName: RightUpperLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -106,7 +106,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_knee_L
+    - boneName: mixamorig:LeftLeg
       humanName: LeftLowerLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -114,7 +114,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_knee_R
+    - boneName: mixamorig:RightLeg
       humanName: RightLowerLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -122,7 +122,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_foot_L
+    - boneName: mixamorig:LeftFoot
       humanName: LeftFoot
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -130,7 +130,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_foot_R
+    - boneName: mixamorig:RightFoot
       humanName: RightFoot
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -138,7 +138,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_spine_0
+    - boneName: mixamorig:Spine
       humanName: Spine
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -146,7 +146,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_spine_1
+    - boneName: mixamorig:Spine1
       humanName: Chest
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -154,7 +154,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_neck
+    - boneName: mixamorig:Neck
       humanName: Neck
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -162,7 +162,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_head
+    - boneName: mixamorig:Head
       humanName: Head
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -170,7 +170,23 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_upperarm_L
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
       humanName: LeftUpperArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -178,7 +194,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_upperarm_R
+    - boneName: mixamorig:RightArm
       humanName: RightUpperArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -186,7 +202,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_lowerarm_L
+    - boneName: mixamorig:LeftForeArm
       humanName: LeftLowerArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -194,7 +210,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_lowerarm_R
+    - boneName: mixamorig:RightForeArm
       humanName: RightLowerArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -202,7 +218,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_hand_L
+    - boneName: mixamorig:LeftHand
       humanName: LeftHand
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -210,7 +226,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_hand_R
+    - boneName: mixamorig:RightHand
       humanName: RightHand
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -218,7 +234,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_toe_L
+    - boneName: mixamorig:LeftToeBase
       humanName: LeftToes
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -226,7 +242,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_toe_R
+    - boneName: mixamorig:RightToeBase
       humanName: RightToes
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -234,55 +250,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: L_EyeALL_jnt
-      humanName: LeftEye
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: R_EyeALL_jnt
-      humanName: RightEye
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_jaw
-      humanName: Jaw
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_thumb_0_L
-      humanName: Left Thumb Proximal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_thumb_1_L
-      humanName: Left Thumb Intermediate
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_thumb_2_L
-      humanName: Left Thumb Distal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_index_0_L
+    - boneName: mixamorig:LeftHandIndex1
       humanName: Left Index Proximal
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -290,7 +258,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_index_1_L
+    - boneName: mixamorig:LeftHandIndex2
       humanName: Left Index Intermediate
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -298,7 +266,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_index_2_L
+    - boneName: mixamorig:LeftHandIndex3
       humanName: Left Index Distal
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -306,79 +274,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_middle_0_L
-      humanName: Left Middle Proximal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_middle_1_L
-      humanName: Left Middle Intermediate
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_middle_2_L
-      humanName: Left Middle Distal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_pinky_0_L
-      humanName: Left Little Proximal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_pinky_1_L
-      humanName: Left Little Intermediate
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_pinky_2_L
-      humanName: Left Little Distal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_thumb_0_R
-      humanName: Right Thumb Proximal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_thumb_1_R
-      humanName: Right Thumb Intermediate
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_thumb_2_R
-      humanName: Right Thumb Distal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_index_0_R
+    - boneName: mixamorig:RightHandIndex1
       humanName: Right Index Proximal
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -386,7 +282,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_index_1_R
+    - boneName: mixamorig:RightHandIndex2
       humanName: Right Index Intermediate
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -394,7 +290,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_index_2_R
+    - boneName: mixamorig:RightHandIndex3
       humanName: Right Index Distal
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -402,48 +298,8 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: bip_middle_0_R
-      humanName: Right Middle Proximal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_middle_1_R
-      humanName: Right Middle Intermediate
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_middle_2_R
-      humanName: Right Middle Distal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_pinky_0_R
-      humanName: Right Little Proximal
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_pinky_1_R
-      humanName: Right Little Intermediate
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: bip_pinky_2_R
-      humanName: Right Little Distal
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
       limit:
         min: {x: 0, y: 0, z: 0}
         max: {x: 0, y: 0, z: 0}
@@ -451,899 +307,184 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: FNAF RUIN_Ruinned Freddy(Clone)
+    - name: freddy-fazbear-tpose(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Light
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
-      rotation: {x: 0.52327543, y: -0.34203392, z: 0.72694236, w: 0.28416622}
-      scale: {x: 100.00001, y: 100, z: 100}
-    - name: Camera
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
-      rotation: {x: 0.09062847, y: 0.89379627, z: -0.20997298, w: 0.3857799}
-      scale: {x: 100, y: 100.00001, z: 99.99999}
-    - name: RIG_Shattered_Montgomery.mo.027.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Vert.001.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Vert.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Cube.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: MOD_ShatteredMonty_Legs.mo.035.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: MOD_ShatteredMonty_Legs.mo.288.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: MOD_ShatteredMonty_Legs.mo.446.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: MOD_ShatteredMonty_Legs.mo.460.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: MOD_ShatteredMonty_Legs.mo.632.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.001.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.002.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.003.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.004.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.005.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.006.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.007.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.008.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Endo.mo.009.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.001.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.002.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.003.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.004.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.005.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.006.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.007.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.008.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.009.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.010.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.011.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.012.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.013.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.014.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.015.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.016.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.017.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.018.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.019.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.020.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.021.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.022.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.023.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.024.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.025.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.026.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.001.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.004.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.006.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.007.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.008.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.009.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.010.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.011.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.012.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.013.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.014.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.015.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.016.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.017.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.018.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.019.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.020.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.021.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.022.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.023.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.024.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.025.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Shattered_Montgomery.mo.026.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: RIG_Glamrock_Freddy_PartsServ.mo.027.smd
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Shattered Freddy_ARM
-      parentName: FNAF RUIN_Ruinned Freddy(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: C_World_jnt
-      parentName: Shattered Freddy_ARM
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0.70710665, y: -0, z: -0, w: 0.7071069}
+    - name: group
+      parentName: freddy-fazbear-tpose(Clone)
+      position: {x: 0.00014865007, y: 0.0038470295, z: 1.4210854e-18}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_pelvis
-      parentName: C_World_jnt
-      position: {x: -0, y: 0.008181344, z: 0}
-      rotation: {x: 0.49999994, y: -0.49999985, z: -0.50000006, w: -0.5000002}
+    - name: polySurface82
+      parentName: group
+      position: {x: -0.00014865007, y: 1.598721e-18, z: -0.0038470295}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6212423, y: 0.6212423, z: 0.6212423}
+    - name: mixamorig:Hips
+      parentName: freddy-fazbear-tpose(Clone)
+      position: {x: 0.000000027419393, y: 0.0035029908, z: 0.00001832711}
+      rotation: {x: -0.00000027816557, y: 0.0000014295637, z: -0.000025341778, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_spine_0
-      parentName: bip_pelvis
-      position: {x: 5.4701983e-11, y: -4.4703483e-10, z: 0.0007245475}
-      rotation: {x: -0.000000014901163, y: 0.034899447, z: 0.0000001192093, w: 0.99939084}
-      scale: {x: 1.0000001, y: 1.0000082, z: 1.0000001}
-    - name: bip_spine_1
-      parentName: bip_spine_0
-      position: {x: -0.00006416268, y: -7.0780515e-10, z: 0.0009176306}
-      rotation: {x: 0.000000024616044, y: -0.034899358, z: 0.00000003008709, w: -0.99939084}
-      scale: {x: 1.0000236, y: 1.0000236, z: 1.0000193}
-    - name: bip_upperarm_R
-      parentName: bip_spine_1
-      position: {x: -0.00023208206, y: -0.0022212404, z: 0.0016513322}
-      rotation: {x: -0.0010450156, y: -0.99766916, z: -0.00096153864, w: -0.06822232}
-      scale: {x: 1.0000226, y: 1.0000209, z: 1.0000244}
-    - name: bip_lowerarm_R
-      parentName: bip_upperarm_R
-      position: {x: 0.0000029883843, y: -0.0025194352, z: -0.0000014266559}
-      rotation: {x: -0.0000008066345, y: 0.00000018626451, z: 0.0000013996614, w: 1}
-      scale: {x: 1.0000201, y: 1.0000167, z: 1.0000255}
-    - name: bip_hand_R
-      parentName: bip_lowerarm_R
-      position: {x: -0.000013312695, y: -0.0021360947, z: -0.000006817874}
-      rotation: {x: 0.0000000015572252, y: -0.00000008940617, z: -0.0000010135118, w: 1}
-      scale: {x: 0.99999, y: 0.9999847, z: 0.9999893}
-    - name: bip_thumb_0_R
-      parentName: bip_hand_R
-      position: {x: 0.0007673663, y: -0.00047152556, z: 0.000043809523}
-      rotation: {x: 0.0018131229, y: -0.0007214034, z: 0.44800362, w: 0.8940297}
-      scale: {x: 1.0000333, y: 1.0000286, z: 1.0000267}
-    - name: bip_thumb_1_R
-      parentName: bip_thumb_0_R
-      position: {x: 0.000016225118, y: -0.00062067655, z: 0.000003562442}
-      rotation: {x: -0, y: -0, z: -1.43201935e-11, w: 1}
-      scale: {x: 0.9999991, y: 0.9999956, z: 1.0000025}
-    - name: bip_thumb_2_R
-      parentName: bip_thumb_1_R
-      position: {x: -0.000000700535, y: -0.00031400975, z: 0.0000009573047}
-      rotation: {x: 0.80730385, y: 0.0000016023372, z: 0.590133, w: 0.0018897079}
-      scale: {x: 1.0000018, y: 1.0000024, z: 1.0000123}
-    - name: bip_thumb_2_R_end
-      parentName: bip_thumb_2_R
-      position: {x: -0, y: 0.00019050004, z: 0}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.0004248127, z: -0.000020075868}
+      rotation: {x: -0.023609065, y: -0.0000020274754, z: 0.000025300964, w: 0.9997213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.00049616734, z: -3.240874e-13}
+      rotation: {x: 5.0805114e-26, y: -7.478511e-14, z: 6.79348e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.00056704873, z: 1.2223691e-12}
+      rotation: {x: 0, y: 0, z: 3.313216e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.00020831374, y: 0.0006320983, z: 0.000002102565}
+      rotation: {x: 0.45176092, y: -0.54288775, z: 0.44126463, w: 0.5535978}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -6.404547e-14, y: 0.00041327853, z: 1.0528643e-12}
+      rotation: {x: 0.10226239, y: -0.12178696, z: -0.0019202725, w: 0.9872723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: 1.6959356e-11, y: 0.0014626151, z: 4.800741e-11}
+      rotation: {x: -0.00000018969169, y: -0.0028114608, z: -0.000000036582716, w: 0.99999607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: 4.2594465e-12, y: 0.0010305385, z: -1.1856627e-12}
+      rotation: {x: 0.00000016695422, y: 0.40671584, z: -0.00000010627903, w: 0.9135547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: -1.1586252e-13, y: 0.0003921141, z: -1.0471695e-12}
+      rotation: {x: -4.7171073e-17, y: 0.97816974, z: 4.7171073e-17, w: -0.2078077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: 3.1626338e-12, y: 0.00021885251, z: -4.6754367e-12}
+      rotation: {x: 0.603501, y: 0.000000048660787, z: 0.34837946, w: 0.7172296}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.000117147225, y: 0.0000067607684, z: -0.00020294101}
+      rotation: {x: 0.20541848, y: 0.42880672, z: 0.13286452, w: 0.8696408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.00018044923, y: -0.00008144163, z: -0.000016152128}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_pinky_0_R
-      parentName: bip_hand_R
-      position: {x: -0.0003971016, y: -0.0012273487, z: -0.00000086197184}
-      rotation: {x: -0.000000033731588, y: 0.000000029800251, z: 0.0000025929182, w: 1}
-      scale: {x: 1.0000308, y: 1.0000066, z: 1.0000205}
-    - name: bip_pinky_1_R
-      parentName: bip_pinky_0_R
-      position: {x: -0.0000016469694, y: -0.00064070226, z: -0.0000025486008}
-      rotation: {x: 0.000000032174565, y: 0.000000059605895, z: -0.0000015794064, w: 1}
-      scale: {x: 0.99999523, y: 1.0000004, z: 0.9999965}
-    - name: bip_pinky_2_R
-      parentName: bip_pinky_1_R
-      position: {x: -0.0000007680338, y: -0.0003559517, z: -0.000008470811}
-      rotation: {x: -0.9958313, y: -0.0000029027938, z: 0.09042915, w: 0.011946181}
-      scale: {x: 1.0000055, y: 1.0000001, z: 1.0000085}
-    - name: bip_pinky_2_R_end
-      parentName: bip_pinky_2_R
-      position: {x: -0, y: 0.00019050018, z: 0}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.00020831374, y: 0.0006323226, z: -0.0000026431053}
+      rotation: {x: 0.4453729, y: 0.54851425, z: -0.44710246, w: 0.54852027}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: 3.7596855e-14, y: 0.00041327853, z: 1.0541397e-12}
+      rotation: {x: 0.10166548, y: 0.10190983, z: 0.011247279, w: 0.98952115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -7.404358e-12, y: 0.0014576254, z: 3.7550952e-11}
+      rotation: {x: -0.00000019675076, y: 0.028748246, z: 0.00000038392378, w: 0.9995867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -1.08759755e-11, y: 0.0010294796, z: 1.6743806e-11}
+      rotation: {x: 0.00000044479197, y: -0.28950638, z: 0.000000071182505, w: 0.9571761}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: 3.5385013e-12, y: 0.00060447573, z: 6.7256105e-12}
+      rotation: {x: 0.0000004223363, y: 0.075678214, z: -0.00000006574911, w: 0.9971323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: -1.0062158e-12, y: 0.00004633562, z: 1.0407403e-12}
+      rotation: {x: 0.13931507, y: 0.000000015529293, z: -0.20263168, w: 0.9692944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: -0.000043138836, y: 0.000096543234, z: -0.000029655077}
+      rotation: {x: 0.25781798, y: -0.008576544, z: -0.4029079, w: 0.8781353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: -0.00005918955, y: 0.0000053891026, z: -0.000037987622}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_middle_0_R
-      parentName: bip_hand_R
-      position: {x: 0.0000419386, y: -0.0012283298, z: 0.0000004837338}
-      rotation: {x: 0.00000006089244, y: -0.000000029801583, z: -0.00000092352275, w: 1}
-      scale: {x: 1.0000298, y: 1.0000117, z: 1.0000262}
-    - name: bip_middle_1_R
-      parentName: bip_middle_0_R
-      position: {x: -0.0000016434374, y: -0.00064070185, z: -0.000002548584}
-      rotation: {x: -0.000000062449715, y: 0.00000011920781, z: 0.0000019370345, w: 1}
-      scale: {x: 1.000026, y: 1.0000217, z: 1.0000259}
-    - name: bip_middle_2_R
-      parentName: bip_middle_1_R
-      position: {x: -0.0000007680803, y: -0.00035595088, z: -0.000008468608}
-      rotation: {x: -0.99585253, y: 0.0000032943287, z: 0.09019553, w: 0.011942331}
-      scale: {x: 0.9999938, y: 0.9999993, z: 0.9999925}
-    - name: bip_middle_2_R_end
-      parentName: bip_middle_2_R
-      position: {x: -0, y: 0.00019050018, z: 0}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.00063792994, z: 2.2118739e-11}
+      rotation: {x: 0.023609342, y: 3.72529e-14, z: 2.2831693e-13, w: 0.9997213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.000006287765, z: 0.0000024921687}
+      rotation: {x: 0, y: 0, z: 1.176777e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.0015424279, z: 0.0006113488}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_index_0_R
-      parentName: bip_hand_R
-      position: {x: 0.0004789704, y: -0.0012292971, z: 0.0000018304361}
-      rotation: {x: -0.00000002696461, y: 0.00000002980384, z: -0.000001847744, w: 1}
-      scale: {x: 1.0000234, y: 1.0000073, z: 1.000016}
-    - name: bip_index_1_R
-      parentName: bip_index_0_R
-      position: {x: -0.0000016408611, y: -0.0006407029, z: -0.00000254889}
-      rotation: {x: 0.00000002540719, y: 0.000000059602304, z: 0.0000028612558, w: 1}
-      scale: {x: 0.9999887, y: 0.9999842, z: 0.99998564}
-    - name: bip_index_2_R
-      parentName: bip_index_1_R
-      position: {x: -0.000000768078, y: -0.0003559516, z: -0.000008470146}
-      rotation: {x: -0.9958416, y: -0.0000029047833, z: 0.090315536, w: 0.011942862}
-      scale: {x: 1.0000085, y: 1.0000104, z: 1.0000186}
-    - name: bip_index_2_R_end
-      parentName: bip_index_2_R
-      position: {x: -0, y: 0.00019050018, z: 0}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.00047464675, y: -0.00023579708, z: -0.000018718236}
+      rotation: {x: -0.002959683, y: 0.1036341, z: 0.9946054, w: 0.0033566232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -5.8489915e-13, y: 0.0015548983, z: 1.1481662e-11}
+      rotation: {x: -0.26839507, y: 0.011834288, z: 0.0032497451, w: 0.9632308}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -2.2481684e-13, y: 0.0012620057, z: 1.0897451e-11}
+      rotation: {x: 0.54787254, y: 0.09599002, z: -0.08777649, w: 0.8263879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -1.3416617e-13, y: 0.0008088739, z: 1.1277369e-11}
+      rotation: {x: 0.3329195, y: 0.0313039, z: -0.011059051, w: 0.94237065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 3.2206046e-12, y: 0.0003289856, z: -5.888423e-13}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: R_Forearm_Shell_jnt
-      parentName: bip_lowerarm_R
-      position: {x: -0.0000403119, y: -0.0010946817, z: -0.000005057229}
-      rotation: {x: -0.0000000019970228, y: -0.0000025704496, z: -0.00000050908636, w: 1}
-      scale: {x: 1.0000051, y: 0.99998987, z: 0.99998915}
-    - name: R_Forearm_Shell_jnt_end
-      parentName: R_Forearm_Shell_jnt
-      position: {x: -0, y: 0.00019050018, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.00047464675, y: -0.00023579708, z: -0.00002913741}
+      rotation: {x: 0.0030303586, y: 0.105061665, z: 0.99445534, w: -0.0033808926}
       scale: {x: 1, y: 1, z: 1}
-    - name: R_Forearm_Hinge_1_JNT
-      parentName: bip_lowerarm_R
-      position: {x: 0.0005764946, y: -0.0013284562, z: -0.000006101384}
-      rotation: {x: 0.45348743, y: -0.5604971, z: -0.54137415, w: 0.43255782}
-      scale: {x: 0.99999386, y: 1.0000017, z: 1.0000064}
-    - name: R_Forearm_Hinge_1_JNT_end
-      parentName: R_Forearm_Hinge_1_JNT
-      position: {x: -0, y: 0.00019050059, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -3.0056188e-12, y: 0.0015565791, z: 6.1829964e-12}
+      rotation: {x: -0.2678123, y: -0.011777796, z: -0.0032345115, w: 0.9633937}
       scale: {x: 1, y: 1, z: 1}
-    - name: R_Forearm_Hinge_2_JNT
-      parentName: bip_lowerarm_R
-      position: {x: -0.0006297028, y: -0.0013257734, z: -0.00000982624}
-      rotation: {x: 0.54475105, y: -0.43054613, z: -0.4441492, w: 0.5662224}
-      scale: {x: 0.99998933, y: 0.99998647, z: 0.99998444}
-    - name: R_Forearm_Hinge_2_JNT_end
-      parentName: R_Forearm_Hinge_2_JNT
-      position: {x: -0, y: 0.00019050037, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: 1.3480929e-12, y: 0.0012594186, z: 1.6179303e-11}
+      rotation: {x: 0.54129195, y: -0.10644818, z: 0.090200126, w: 0.82917774}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_neck
-      parentName: bip_spine_1
-      position: {x: -0.00014530057, y: -0.0000000011362136, z: 0.0015385306}
-      rotation: {x: -0.00000005995685, y: 0.06890884, z: -0.00000012081803, w: -0.99762297}
-      scale: {x: 1.0000229, y: 1.0000256, z: 1.0000297}
-    - name: bip_head
-      parentName: bip_neck
-      position: {x: -0.00013196036, y: -0.0000000014342366, z: 0.0018926627}
-      rotation: {x: 2.5083582e-10, y: 0.0015664698, z: 0.0000000893603, w: -0.9999988}
-      scale: {x: 0.99999845, y: 1.0000015, z: 0.9999989}
-    - name: bip_ear_0_L
-      parentName: bip_head
-      position: {x: -0.0001859337, y: 0.0003822573, z: 0.0008887822}
-      rotation: {x: -0.69295776, y: -0.0027640744, z: -0.0010609272, w: 0.7209721}
-      scale: {x: 1.0000091, y: 1.0000275, z: 1.000011}
-    - name: bip_ear_1_L
-      parentName: bip_ear_0_L
-      position: {x: 0.0000063084053, y: -0.000043574877, z: 0.00062498485}
-      rotation: {x: 0.086870365, y: -0.040025823, z: -0.13070536, w: 0.9867967}
-      scale: {x: 1.0000399, y: 1.0000285, z: 1.0000249}
-    - name: bip_earring_L
-      parentName: bip_ear_1_L
-      position: {x: -0.000023801615, y: 0.000030548414, z: 0.00055115606}
-      rotation: {x: -0.20483887, y: -0.08333094, z: -0.11439173, w: -0.96851003}
-      scale: {x: 1.0000991, y: 0.99997836, z: 0.9999687}
-    - name: bip_earring_L_end
-      parentName: bip_earring_L
-      position: {x: -0, y: 0.00019050052, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -5.0201635e-12, y: 0.00080089946, z: -4.6167743e-11}
+      rotation: {x: 0.3371597, y: -0.027813226, z: 0.009965648, w: 0.9409838}
       scale: {x: 1, y: 1, z: 1}
-    - name: bip_jaw
-      parentName: bip_head
-      position: {x: -0.00008535506, y: 7.450609e-11, z: -0.00022180358}
-      rotation: {x: 0.00000000528552, y: -0.21089014, z: -0.00000006554353, w: 0.97750974}
-      scale: {x: 1.0000409, y: 1.0000126, z: 1.0000018}
-    - name: bip_jaw_end
-      parentName: bip_jaw
-      position: {x: -0, y: 0.0001905, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: L_EyeALL_jnt
-      parentName: bip_head
-      position: {x: -0.0008097071, y: 0.00042749968, z: 0.0005805235}
-      rotation: {x: -0.00050686137, y: 0.00050707953, z: -0.70711035, w: 0.7071029}
-      scale: {x: 1.0000012, y: 1.0000142, z: 1.0000123}
-    - name: bip_eye_L
-      parentName: L_EyeALL_jnt
-      position: {x: -2.7995384e-12, y: -0.0000000017367442, z: -1.2786813e-10}
-      rotation: {x: 1, y: 0.00015793355, z: 0.0000005337351, w: -0.000000027124766}
-      scale: {x: 0.9999961, y: 1.0000097, z: 1.000005}
-    - name: bip_eye_L_end
-      parentName: bip_eye_L
-      position: {x: -0, y: 0.00019050004, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_upperlid_L
-      parentName: L_EyeALL_jnt
-      position: {x: -2.7995384e-12, y: -0.0000000017367442, z: -1.2786813e-10}
-      rotation: {x: 0.90148973, y: -0.000001873268, z: -0.0000019887812, w: 0.43280062}
-      scale: {x: 1.0000004, y: 0.9999767, z: 1.0000176}
-    - name: bip_upperlid_L_end
-      parentName: bip_upperlid_L
-      position: {x: -0, y: 0.0001904998, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_lowerlid_L
-      parentName: L_EyeALL_jnt
-      position: {x: -2.7995384e-12, y: -0.0000000017367442, z: -1.2786813e-10}
-      rotation: {x: 0.9014896, y: -0.000001182547, z: 0.0000010524528, w: -0.43280077}
-      scale: {x: 1.0000004, y: 1.0000094, z: 0.99996877}
-    - name: bip_lowerlid_L_end
-      parentName: bip_lowerlid_L
-      position: {x: -0, y: 0.00019049972, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: R_EyeALL_jnt
-      parentName: bip_head
-      position: {x: -0.0008097214, y: -0.00042748047, z: 0.00058053783}
-      rotation: {x: -0.00052455644, y: 0.00052477844, z: -0.7071103, w: 0.7071029}
-      scale: {x: 1.0000012, y: 1.0000029, z: 1.0000006}
-    - name: bip_eye_R
-      parentName: R_EyeALL_jnt
-      position: {x: -6.595542e-12, y: -0.0000000017944469, z: 7.9147916e-10}
-      rotation: {x: 0.9999991, y: -0.0000012391117, z: -0.0013389859, w: -0.00015958374}
-      scale: {x: 1.0000004, y: 1.0000179, z: 1.0000155}
-    - name: bip_eye_R_end
-      parentName: bip_eye_R
-      position: {x: -0, y: 0.00019050001, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_upperlid_R
-      parentName: R_EyeALL_jnt
-      position: {x: -6.595542e-12, y: -0.0000000017944469, z: 7.9147916e-10}
-      rotation: {x: 0.9015092, y: -0.0000012713425, z: -0.0000011232331, w: 0.43275985}
-      scale: {x: 1.0000004, y: 0.9999862, z: 1.0000268}
-    - name: bip_upperlid_R_end
-      parentName: bip_upperlid_R
-      position: {x: -0, y: 0.0001904998, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_lowerlid_R
-      parentName: R_EyeALL_jnt
-      position: {x: -6.595542e-12, y: -0.0000000017944469, z: 7.9147916e-10}
-      rotation: {x: 0.90147036, y: -0.0000008041681, z: 0.00000094797014, w: -0.43284097}
-      scale: {x: 1.0000004, y: 1.0000478, z: 1.0000066}
-    - name: bip_lowerlid_R_end
-      parentName: bip_lowerlid_R
-      position: {x: -0, y: 0.0001904998, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_ear_0_R
-      parentName: bip_head
-      position: {x: -0.00018594043, y: -0.00038225902, z: 0.00088878936}
-      rotation: {x: -0.0010780572, y: -0.99973273, z: -0.022927765, w: -0.002760629}
-      scale: {x: 1.000007, y: 0.99999726, z: 1.0000099}
-    - name: bip_ear_1_R
-      parentName: bip_ear_0_R
-      position: {x: -0.0000062895624, y: -0.00061898347, z: -0.000096770564}
-      rotation: {x: -0.6033177, y: -0.11788813, z: -0.06918844, w: 0.78569907}
-      scale: {x: 1.0000366, y: 1.0000013, z: 1.0000263}
-    - name: bip_ear_1_R_end
-      parentName: bip_ear_1_R
-      position: {x: -0, y: 0.00019050043, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_endojaw
-      parentName: bip_head
-      position: {x: 0.000299729, y: 9.3132536e-11, z: -0.00024786784}
-      rotation: {x: 2.7755576e-17, y: -0, z: -2.1282075e-15, w: 1}
-      scale: {x: 1.0000085, y: 1.0000012, z: 1.0000068}
-    - name: bip_endojaw_end
-      parentName: bip_endojaw
-      position: {x: -0, y: 0.0001905, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: HeadTop_Jiggle_jnt
-      parentName: bip_head
-      position: {x: -0.00008276219, y: -4.284081e-10, z: 0.00069210783}
-      rotation: {x: 0.4996415, y: -0.4996412, z: -0.50035846, w: 0.5003584}
-      scale: {x: 0.9999987, y: 1.000009, z: 1.0000108}
-    - name: bip_hat
-      parentName: HeadTop_Jiggle_jnt
-      position: {x: 0.00019677012, y: 0.00091483, z: 0.0002740668}
-      rotation: {x: -0, y: -0, z: -0.000000014901158, w: 1}
-      scale: {x: 1.0000027, y: 0.99999976, z: 0.99999857}
-    - name: bip_hat_end
-      parentName: bip_hat
-      position: {x: -0, y: 0.00019050001, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_upperarm_L
-      parentName: bip_spine_1
-      position: {x: -0.00023208196, y: 0.0022212612, z: 0.0016513456}
-      rotation: {x: -0.0009603934, y: -0.0682295, z: 0.0010549488, w: 0.9976686}
-      scale: {x: 1.0000066, y: 1.0000253, z: 1.0000188}
-    - name: bip_lowerarm_L
-      parentName: bip_upperarm_L
-      position: {x: -0.0000029391324, y: 0.002519399, z: 0.0000014130769}
-      rotation: {x: 0.00000014761461, y: 0.0000010132788, z: -0.000008001086, w: 1}
-      scale: {x: 1.0000272, y: 1.0000131, z: 1.0000255}
-    - name: bip_hand_L
-      parentName: bip_lowerarm_L
-      position: {x: 0.000013312498, y: 0.0021360752, z: 0.000006835534}
-      rotation: {x: -0.000000045635193, y: -0.000000014901277, z: 0.00000052164785, w: 1}
-      scale: {x: 1.0000086, y: 1.0000049, z: 1.0000112}
-    - name: bip_thumb_0_L
-      parentName: bip_hand_L
-      position: {x: -0.0007673683, y: 0.0004715433, z: -0.000043815406}
-      rotation: {x: -0.00609492, y: 0.0002490602, z: 0.43002087, w: 0.90279835}
-      scale: {x: 1.0000324, y: 1.0000186, z: 1.0000231}
-    - name: bip_thumb_1_L
-      parentName: bip_thumb_0_L
-      position: {x: -0.000016353204, y: 0.000577771, z: 0.000006074529}
-      rotation: {x: -0.00000014039688, y: -0.00003590004, z: -0.00000005392849, w: 1}
-      scale: {x: 1.00003, y: 1.0000243, z: 1.000018}
-    - name: bip_thumb_2_L
-      parentName: bip_thumb_1_L
-      position: {x: 0.0000008029563, y: 0.00036180625, z: -0.0000011094124}
-      rotation: {x: 0.0000000132142315, y: -0.00000047683346, z: 0.000000029537235, w: 1}
-      scale: {x: 1.000041, y: 1.0000299, z: 1.0000292}
-    - name: bip_thumb_2_L_end
-      parentName: bip_thumb_2_L
-      position: {x: -0, y: 0.00019050004, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_index_0_L
-      parentName: bip_hand_L
-      position: {x: -0.0004390751, y: 0.0012292196, z: -0.000001709529}
-      rotation: {x: 0.0000030163167, y: -0.000000111735524, z: 0.000005503087, w: 1}
-      scale: {x: 1.0000211, y: 1.0000156, z: 1.0000253}
-    - name: bip_index_1_L
-      parentName: bip_index_0_L
-      position: {x: 0.0000016520486, y: 0.00064070174, z: 0.0000025510158}
-      rotation: {x: -0.0000030312178, y: 0.0000001266367, z: -0.000005488404, w: 1}
-      scale: {x: 0.99999297, y: 0.99999535, z: 0.99999255}
-    - name: bip_index_2_L
-      parentName: bip_index_1_L
-      position: {x: 0.00000078207347, y: 0.00035249605, z: 0.00000062517427}
-      rotation: {x: -0, y: -0, z: -7.088395e-14, w: 1}
-      scale: {x: 1.0000005, y: 1.000012, z: 1.0000116}
-    - name: bip_index_2_L_end
-      parentName: bip_index_2_L
-      position: {x: -0, y: 0.00019050018, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_middle_0_L
-      parentName: bip_hand_L
-      position: {x: 0.00000222941, y: 0.0012282317, z: -0.00000035768923}
-      rotation: {x: -0, y: -0, z: -6.800226e-16, w: 1}
-      scale: {x: 1.0000211, y: 1.0000106, z: 1.0000204}
-    - name: bip_middle_1_L
-      parentName: bip_middle_0_L
-      position: {x: 0.0000016459097, y: 0.00064070156, z: 0.0000025553998}
-      rotation: {x: -0, y: -0, z: -0, w: 1}
-      scale: {x: 1.0000212, y: 1.0000114, z: 1.0000215}
-    - name: bip_middle_2_L
-      parentName: bip_middle_1_L
-      position: {x: 0.0000007818106, y: 0.0003524976, z: 0.0000006263784}
-      rotation: {x: -0.000000014901284, y: 0.0000000149010555, z: 0.000000014682884, w: 1}
-      scale: {x: 1.0000162, y: 1.000004, z: 1.0000151}
-    - name: bip_middle_2_L_end
-      parentName: bip_middle_2_L
-      position: {x: -0, y: 0.00019050018, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_pinky_0_L
-      parentName: bip_hand_L
-      position: {x: 0.00044362887, y: 0.0012272507, z: 0.0000010004145}
-      rotation: {x: 0.0000030746974, y: -0.000000052130495, z: 0.0000063973316, w: 1}
-      scale: {x: 1.0000155, y: 1.0000106, z: 1.0000253}
-    - name: bip_pinky_1_L
-      parentName: bip_pinky_0_L
-      position: {x: 0.0000016532558, y: 0.0006407029, z: 0.0000025502168}
-      rotation: {x: -0.0000030895985, y: 0.00000006703169, z: -0.0000063826487, w: 1}
-      scale: {x: 1.0000153, y: 1.0000058, z: 1.0000136}
-    - name: bip_pinky_2_L
-      parentName: bip_pinky_1_L
-      position: {x: 0.00000078199895, y: 0.000352493, z: 0.0000006266555}
-      rotation: {x: -0, y: -0, z: 2.07101e-13, w: 1}
-      scale: {x: 1.0000184, y: 1.0000094, z: 1.0000186}
-    - name: bip_pinky_2_L_end
-      parentName: bip_pinky_2_L
-      position: {x: -0, y: 0.00019050018, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: L_Forearm_Shell_jnt
-      parentName: bip_lowerarm_L
-      position: {x: 0.000040318737, y: 0.001094697, z: 0.0000050793947}
-      rotation: {x: -0.00000016428336, y: 0.000002421438, z: 0.0000019541455, w: 1}
-      scale: {x: 1.0000094, y: 1.0000049, z: 1.0000106}
-    - name: L_Forearm_Shell_jnt_end
-      parentName: L_Forearm_Shell_jnt
-      position: {x: -0, y: 0.00019050018, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: L_Forearm_Hinge_1_JNT
-      parentName: bip_lowerarm_L
-      position: {x: -0.00057649676, y: 0.0013285042, z: 0.0000061576193}
-      rotation: {x: 0.45347807, y: -0.56049335, z: -0.5413791, w: 0.43256614}
-      scale: {x: 1.0000012, y: 0.9999955, z: 0.99999785}
-    - name: L_Forearm_Hinge_1_JNT_end
-      parentName: L_Forearm_Hinge_1_JNT
-      position: {x: -0, y: 0.0001905005, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: L_Forearm_Hinge_2_JNT
-      parentName: bip_lowerarm_L
-      position: {x: 0.00062970107, y: 0.0013258175, z: 0.000009855272}
-      rotation: {x: 0.5447633, y: -0.430564, z: -0.44413242, w: 0.56621027}
-      scale: {x: 0.999994, y: 1.0000026, z: 1.0000001}
-    - name: L_Forearm_Hinge_2_JNT_end
-      parentName: L_Forearm_Hinge_2_JNT
-      position: {x: -0, y: 0.00019049985, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: L_Shoulder_Jiggle_jnt
-      parentName: bip_upperarm_L
-      position: {x: 0.000032179312, y: 0.0012863304, z: 0.0000023653051}
-      rotation: {x: 0.00000007404014, y: 0.0000025108454, z: -0.000007508147, w: 1}
-      scale: {x: 1.0000155, y: 1.0000178, z: 1.0000211}
-    - name: L_Shoulder_Jiggle_jnt_end
-      parentName: L_Shoulder_Jiggle_jnt
-      position: {x: -0, y: 0.0001904999, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_shoulderpad_R
-      parentName: bip_spine_1
-      position: {x: -0.00023293257, y: -0.0020186824, z: 0.0016573736}
-      rotation: {x: -0.0010531505, y: -0.99766916, z: -0.0009618386, w: -0.068222344}
-      scale: {x: 1.0000123, y: 1.0000101, z: 1.000018}
-    - name: bip_shoulderpad_R_end
-      parentName: bip_shoulderpad_R
-      position: {x: -0, y: 0.00019050004, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_shoulderpad_L
-      parentName: bip_spine_1
-      position: {x: -0.00023293297, y: 0.002018703, z: 0.0016573821}
-      rotation: {x: -0.00095937814, y: -0.068228, z: 0.0010402167, w: 0.9976688}
-      scale: {x: 1.0000286, y: 1.0000265, z: 1.0000341}
-    - name: bip_shoulderpad_L_end
-      parentName: bip_shoulderpad_L
-      position: {x: -0, y: 0.00019050004, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_Voicebox
-      parentName: bip_spine_1
-      position: {x: -0.0006526624, y: -0.0000000011362136, z: 0.0014945497}
-      rotation: {x: 0.53366035, y: -0.53366053, z: -0.46390375, w: 0.46390337}
-      scale: {x: 1.0000104, y: 1.0000091, z: 1.0000031}
-    - name: bip_Voicebox_end
-      parentName: bip_Voicebox
-      position: {x: -0, y: 0.00019050001, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_hip_R
-      parentName: bip_pelvis
-      position: {x: -0.000042526302, y: -0.00085692026, z: -0.00052157935}
-      rotation: {x: 0.02384031, y: 0.018267365, z: 0.70670474, w: -0.70687085}
-      scale: {x: 1, y: 1.0000005, z: 1.000003}
-    - name: bip_knee_R
-      parentName: bip_hip_R
-      position: {x: 0.000022438966, y: -0.00021248926, z: -0.0028345133}
-      rotation: {x: 0.6520986, y: -0.017203413, z: 0.012572919, w: -0.75783473}
-      scale: {x: 0.99999994, y: 1.0000302, z: 1.0000291}
-    - name: bip_foot_R
-      parentName: bip_knee_R
-      position: {x: 0.000012756601, y: 0.003709236, z: -0.00024817252}
-      rotation: {x: -0.03821969, y: -0.06462968, z: -0.6853967, w: 0.7242884}
-      scale: {x: 1.0000155, y: 1.0000205, z: 1.0000525}
-    - name: bip_toe_R
-      parentName: bip_foot_R
-      position: {x: -0.0005579476, y: 0.0000668518, z: -0.0009947048}
-      rotation: {x: -0.0000033453107, y: 0.0000053197145, z: 0.70709985, w: 0.7071137}
-      scale: {x: 1, y: 1.0000211, z: 1.0000246}
-    - name: bip_toe_R_end
-      parentName: bip_toe_R
-      position: {x: -0, y: 0.0001905, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: bip_hip_L
-      parentName: bip_pelvis
-      position: {x: -0.000042526302, y: 0.00085692084, z: -0.00052158476}
-      rotation: {x: -0.70670444, y: 0.70687014, z: 0.023858061, w: 0.018285215}
-      scale: {x: 0.9999999, y: 1.0000142, z: 1.0000167}
-    - name: bip_knee_L
-      parentName: bip_hip_L
-      position: {x: 0.000098891935, y: 0.00021674887, z: 0.0029843366}
-      rotation: {x: 0.7592596, y: 0.00001552701, z: -0.045293182, w: 0.6492099}
-      scale: {x: 1.0000012, y: 1.0000342, z: 1.00003}
-    - name: bip_foot_L
-      parentName: bip_knee_L
-      position: {x: 0.00000038610887, y: 0.0035846033, z: 0.0000003833836}
-      rotation: {x: -0.70390874, y: -0.7055797, z: 0.07475334, w: -0.03289011}
-      scale: {x: 0.9999895, y: 1.0000062, z: 0.9999941}
-    - name: bip_toe_L
-      parentName: bip_foot_L
-      position: {x: 0.000643194, y: 0.000012589298, z: 0.0008389122}
-      rotation: {x: -0.00000019744039, y: 0.0000020936131, z: 0.7070661, w: 0.70714754}
-      scale: {x: 1.0000036, y: 1.0000123, z: 1.0000013}
-    - name: bip_toe_L_end
-      parentName: bip_toe_L
-      position: {x: -0, y: 0.0001905, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: Root_Jiggle_jnt
-      parentName: bip_pelvis
-      position: {x: -0.00010576407, y: 0, z: 7.984771e-12}
-      rotation: {x: -0.5000002, y: 0.49999967, z: 0.5, w: -0.5000002}
-      scale: {x: 1, y: 1, z: 1}
-    - name: Root_Jiggle_jnt_end
-      parentName: Root_Jiggle_jnt
-      position: {x: -0, y: 0.00019050001, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: blender_implicit
-      parentName: Shattered Freddy_ARM
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: -0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 0.9999899, z: 0.9999899}
-    - name: blender_implicit_end
-      parentName: blender_implicit
-      position: {x: -0, y: 0.00019050001, z: 0}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: 3.6763383e-12, y: 0.00032756454, z: 3.4163061e-13}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
@@ -1353,12 +494,12 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.01
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d191ac780a27c49cdbf5f61fe4f6c46a, type: 3}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 8e4059ddcfce044caa0eb7e716ba3737, type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
