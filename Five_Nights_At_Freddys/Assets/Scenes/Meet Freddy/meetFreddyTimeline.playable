@@ -516,8 +516,8 @@ MonoBehaviour:
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 51a031c8d9b92014a891193ec6fc65ba, type: 3}
-  m_Position: {x: 1.8665936, y: -0.013399473, z: 6.3272877}
-  m_EulerAngles: {x: -0.009, y: 3221.09, z: -0.055}
+  m_Position: {x: 1.8597589, y: -0.013369828, z: 6.448388}
+  m_EulerAngles: {x: -0.015, y: 3221.09, z: -0.088}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
@@ -562,7 +562,7 @@ MonoBehaviour:
   m_Name: AnimationPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: dfa401ae080223f41b792ea4fd4e1138, type: 3}
-  m_Position: {x: -0.0054690097, y: -1.400985, z: 2.9078588}
+  m_Position: {x: -0.13414122, y: -1.400985, z: 2.9078593}
   m_EulerAngles: {x: 0, y: -5.243, z: 0}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
