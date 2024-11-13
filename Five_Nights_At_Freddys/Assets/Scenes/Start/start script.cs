@@ -46,7 +46,7 @@ public class startscript : MonoBehaviour
             timer += Time.deltaTime;
             if (timer >= 25) {
                 choicePanel.SetActive(true);
-                Time.timeScale = 0;
+                Time.timeScale = 1;
                 timeStarted = false;
             }
         }
