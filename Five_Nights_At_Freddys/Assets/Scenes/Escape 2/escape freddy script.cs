@@ -25,16 +25,18 @@ public class escapefreddyscript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*if (timeStarted) WIN SCREEN
+        if (timeStarted)
         {
             timer += Time.deltaTime;
-            if (timer >= 25)
+            if (timer >= 7.1)
             {
-                choicePanel.SetActive(true);
+                // choicePanel.SetActive(true);
                 Time.timeScale = 0;
                 timeStarted = false;
+                gameOverText.text = "You have escaped the restaurant!";
+                UnityEngine.SceneManagement.SceneManager.LoadScene("GameOverScene");
             }
-        }*/
+        }
 
     }
 }
