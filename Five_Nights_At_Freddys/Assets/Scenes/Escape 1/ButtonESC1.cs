@@ -5,16 +5,19 @@ public class ButtonESC1 : MonoBehaviour
 {
     public Button mainMenuButton;
     public GameObject imageObject;
+    public GameObject imageObject2;
 
     float timer = 0f;
     bool timeStarted = false;
     public void ShowImage()
     {
         imageObject.SetActive(true);
+        imageObject2.SetActive(true);
     }
     public void HideImage()
     {
         imageObject.SetActive(false);
+        imageObject2.SetActive(false);
     }
     void Start()
     {
