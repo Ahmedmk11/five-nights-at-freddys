@@ -228,6 +228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOver: {fileID: 601899629}
+  mainMenuButton: {fileID: 1319698080}
 --- !u!1 &508685635
 GameObject:
   m_ObjectHideFlags: 0
