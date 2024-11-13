@@ -47,7 +47,7 @@ public class foxyscript : MonoBehaviour
             if (timer >= 34.5)
             {
                 choicePanel.SetActive(true);
-                Time.timeScale = 0;
+                Time.timeScale = 1;
                 timeStarted = false;
             }
         }
