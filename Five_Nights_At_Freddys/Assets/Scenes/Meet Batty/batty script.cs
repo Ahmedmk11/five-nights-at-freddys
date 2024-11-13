@@ -46,7 +46,7 @@ public class battyscript : MonoBehaviour
             if (timer >= 33.5)
             {
                 choicePanel.SetActive(true);
-                Time.timeScale = 0;
+                Time.timeScale = 1;
                 timeStarted = false;
             }
         }
