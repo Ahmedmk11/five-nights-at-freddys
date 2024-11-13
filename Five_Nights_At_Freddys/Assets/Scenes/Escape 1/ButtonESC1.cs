@@ -40,7 +40,7 @@ public class ButtonESC1 : MonoBehaviour
                 // choicePanel.SetActive(true);
                 Time.timeScale = 0;
                 timeStarted = false;
-                gameOverText.text = "Mukatte kuru no ka!";
+                gameOverText.text = "To Be Continued..";
                 UnityEngine.SceneManagement.SceneManager.LoadScene("GameOverScene");
             }
         }

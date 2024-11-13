@@ -5745,7 +5745,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 54.35
+  m_fontSize: 72
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -6439,6 +6439,8 @@ PlayableDirector:
   - key: {fileID: 4982089403172798872, guid: ac59d24e92b9be949915369657cb5ae3, type: 2}
     value: {fileID: 1695153332}
   - key: {fileID: -557925154055361381, guid: ac59d24e92b9be949915369657cb5ae3, type: 2}
+    value: {fileID: 1695153332}
+  - key: {fileID: 1954030829551691358, guid: ac59d24e92b9be949915369657cb5ae3, type: 2}
     value: {fileID: 1695153332}
   m_ExposedReferences:
     m_References:
