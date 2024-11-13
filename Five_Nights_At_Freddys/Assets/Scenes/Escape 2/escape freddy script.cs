@@ -28,7 +28,7 @@ public class escapefreddyscript : MonoBehaviour
         if (timeStarted)
         {
             timer += Time.deltaTime;
-            if (timer >= 7.1)
+            if (timer >= 9.9)
             {
                 // choicePanel.SetActive(true);
                 Time.timeScale = 0;
